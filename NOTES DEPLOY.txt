@@ -1,0 +1,15 @@
+APP DEPLOYMENT TUTORIAL
+
+- Open Terminal
+- npm i (for installl node modules)
+- Open folder database
+- Open CMD and type "json-server -p2000 db.json" (for local database)
+- Back to terminal and type "npm start"
+- Ready to go
+
+
+Info
+Language : Javascript
+Framework : React JS, Node Js
+Library : Material UI
+Staging : Redux

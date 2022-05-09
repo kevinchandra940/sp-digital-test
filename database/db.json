@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AMERICAN CLASSIC CHEESEBURGER",
+      "price": 8,
+      "topping": [
+        {
+          "Avocado": 38
+        },
+        {
+          "Broccoli": 39
+        },
+        {
+          "Onions": 40
+        },
+        {
+          "Zucchini": 41
+        },
+        {
+          "Lobster": 42
+        },
+        {
+          "Oyster": 42
+        },
+        {
+          "Salmon": 42
+        },
+        {
+          "Tuna": 42
+        },
+        {
+          "Bacon": 42
+        },
+        {
+          "Duck": 42
+        },
+        {
+          "Ham": 42
+        },
+        {
+          "Sausage": 42
+        }
+      ],
+      "images": [
+        "https://asset.kompas.com/crops/teG8bxBeC9NzNi6opEf38UDC74Q=/0x0:1000x667/750x500/data/photo/2020/09/22/5f69e601777db.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "GRILLED BEEF SUPREME",
+      "price": 12,
+      "topping": [
+        {
+          "Avocado": 38
+        },
+        {
+          "Broccoli": 39
+        },
+        {
+          "Onions": 40
+        },
+        {
+          "Zucchini": 41
+        },
+        {
+          "Lobster": 42
+        },
+        {
+          "Oyster": 42
+        },
+        {
+          "Salmon": 42
+        },
+        {
+          "Tuna": 42
+        },
+        {
+          "Bacon": 42
+        },
+        {
+          "Duck": 42
+        },
+        {
+          "Ham": 42
+        },
+        {
+          "Sausage": 42
+        }
+      ],
+      "images": [
+        "https://masirwin.com/wp-content/uploads/Cover-Pizza-Italia.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CHEESY MEETBALL BLAST",
+      "price": 15,
+      "topping": [
+        {
+          "Avocado": 38
+        },
+        {
+          "Broccoli": 39
+        },
+        {
+          "Onions": 40
+        },
+        {
+          "Zucchini": 41
+        },
+        {
+          "Lobster": 42
+        },
+        {
+          "Oyster": 42
+        },
+        {
+          "Salmon": 42
+        },
+        {
+          "Tuna": 42
+        },
+        {
+          "Bacon": 42
+        },
+        {
+          "Duck": 42
+        },
+        {
+          "Ham": 42
+        },
+        {
+          "Sausage": 42
+        }
+      ],
+      "images": [
+        "https://www.pegipegi.com/travel/wp-content/uploads/2016/10/utama-piza-e1477649740858.jpg"
+      ]
+    }
+  ]
+}
